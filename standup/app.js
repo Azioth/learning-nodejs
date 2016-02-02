@@ -9,10 +9,10 @@ var routes = require('./routes/index');
 var users = require('./routes/users');
 
 //mongoose ODM
-var mongoose = requiere('mongoose');
+var mongoose = require('mongoose');
 
 //Connnect to MongoDB
-mongoose.connect('mongodb://myUserAdmin:abc123@localhost:27017/standups')
+mongoose.connect('mongodb://127.0.0.1:27017/standups')
 var app = express();
 
 //assign the swig view engine to .html files
