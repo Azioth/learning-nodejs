@@ -2,3 +2,4 @@ bookApi/node-module/
 standup/node-module/
 *.project
 *.snl
+.ntvs_analysis.dat
