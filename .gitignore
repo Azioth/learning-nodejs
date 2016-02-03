@@ -3,3 +3,5 @@ standup/node-module/
 *.project
 *.snl
 .ntvs_analysis.dat
+.settings/
+.vs/
