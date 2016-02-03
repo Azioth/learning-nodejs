@@ -1,7 +1,9 @@
-var express = require('express');
-	mongoose = require('mongoose');
+var express = require('express'),
+    mongoose = require('mongoose'),
+    bodyParser = require('body-parser');
 
-var db = mongoose.connect('mongodb://localhost:27017/bookAPI');
+
+var db = mongoose.connect('mongodb://localhost/bookAPI');
 
 var Book = require('./models/bookModel');
 
@@ -9,29 +11,20 @@ var app = express();
 
 var port = process.env.PORT || 3000;
 
+app.use(bodyParser.urlencoded({extended:true}));
 
-var bookRouter = express.Router();
+app.use(bodyParser.json());
 
-bookRouter.route('/Books')
-	.get(function(req, res){
+bookRouter = require('./Routes/bookRoutes')(Book);
+//authorRouter = require('./Routes/authorRoutes')(Author);
 
-		var query = req.query;
-		Book.find(query, function(err,books){
-			if(err)
-				res.status(500).send(err);
-			else
-				res.json(books);
-		});
-	});
-
-app.use('/api', bookRouter);
-
-
+app.use('/api/books', bookRouter);
+//app.use('/api/author', authorRouter);
 
 app.get('/', function(req, res){
-	res.send('welcome to my API!');
+    res.send('welcome to my API!');
 });
 
 app.listen(port, function(){
-	console.log('Gulp is running my app on PORT:' + port);
+    console.log('Gulp is running my app on  PORT: ' + port);
 });
