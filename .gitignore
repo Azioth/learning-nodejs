@@ -1,3 +1,4 @@
-*/node-module/
+bookApi/node-module/
+standup/node-module/
 *.project
 *.snl
