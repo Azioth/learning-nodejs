@@ -5,22 +5,29 @@ var requiredStringvalidator = [
     function (val)  {
         var testVal = val.trim();
         return (testVal.length > 0)
-    }, '{PATH} cannot be empty'
+    }, 'Field {PATH} cannot be empty'
 ];
 
 
 var gameModel = new Schema({
 	title: {
 		type: String,
+		required: true,
 		validate: requiredStringvalidator
 	},
 	developer: {
 		type: String,
+		required: true,
 		validate: requiredStringvalidator
 	},
 	genre: {
 		type: String,
+		required: true,
 		validate: requiredStringvalidator
+	},
+	category: {
+		type: String,
+		default: 'None'
 	},
 	played: {
 		type: Boolean, 
