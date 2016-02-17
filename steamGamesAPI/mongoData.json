@@ -1,502 +1,584 @@
 {
-	"_id": "56b4b72aa3d96b0c1fcfe5ff",
 	"title": "Counter Strike: Global Offensive",
-	"genre": "Action",
+	"genre": ["Action"],
 	"developer": "Valve",
+	"publisher": "Valve",
 	"played": true,
 	"category": "None",
 }
 {
-	"_id": "56b4e294db9bea280f4d7575",
 	"title": "STAR WARS - Knights of the Old Republic",
-	"genre": "RPG",
+	"genre": ["RPG"],
 	"developer": "Bioware",
+	"publisher": "LucasArts",
 	"played": false,
 	"category": "None",
 }
 
 {
 	"title": "Don't Starve",
-	"genre": "Simulation",
-	"developer": "Klei Entertainment"
+	"genre": ["Aventura", "Indie", "Simuladores"],
+	"developer": "Klei Entertainment",
+	"publisher": "Klei Entertainment"
 }
 
 {
 	"title": "FEZ",
-	"genre": "",
-	"developer": ""
+	"genre": ["Indie"],
+	"developer": "Polytron Corporation",
+	"publisher": "Trapdoor"
 }
 
 {
 	"title": "OlliOlli",
-	"genre": "",
-	"developer": ""
+	"genre": ["Indie", "Sports"],
+	"developer": "Roll7",
+	"publisher": "Devolver Digital"
 }
 
 {
 	"title": "Risk of Rain",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Indie", "RPG"],
+	"developer": "Hopoo Games, LLC",
+	"publisher": "Chucklefish"
 }
 
 {
 	"title": "This War of Mine",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie", "Simulation"],
+	"developer": "11 bit studios",
+	"publisher": "11 bit studios"
 }
 
 {
 	"title": "Banished",
-	"genre": "",
-	"developer": ""
+	"genre": ["Indie", "Simulation", "Strategy"],
+	"developer": "Shining Rock Software LLC",
+	"publisher": "Shining Rock Software LLC"
 }
 
 {
 	"title": "Insanely Twisted Shadow Planet",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Indie"],
+	"developer": "Shadow Planet Productions",
+	"publisher": "Microsoft Studios"
 }
 
 {
 	"title": "The Vanishing of Ethan Carter REDUX",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie"],
+	"developer": "The Astronauts",
+	"publisher": "The Astronauts"
 }
 
 {
 	"title": "Wolfentein: The New Order",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "Machine Games",
+	"publisher": "Bethesda Softworks"
 }
 
 {
 	"title": "GRID Autosport",
-	"genre": "",
-	"developer": ""
+	"genre": ["Racing", "Sports"],
+	"developer": "Codemasters Racing",
+	"publisher": " Codemasters"
 }
 
 {
 	"title": "The Jorney Down: Chapter One",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie"],
+	"developer": "SkyGoblin",
+	"publisher": "Skygoblin"
 }
 
 {
 	"title": "Metro 2033 Redux",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "4A GAMES",
+	"publisher": "Deep Silver"
 }
 
 {
 	"title": "Shadowrun Returns",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie", "RPG", "Strategy"],
+	"developer": "Harebrained Schemes",
+	"publisher": "Harebrained Holdings"
 }
 
 {
 	"title": "Star Wars Knights of the Old Republic II: The Sith Lords",
-	"genre": "",
-	"developer": ""
+	"genre": ["RPG"],
+	"developer": "Obsidian Entertainment",
+	"publisher": "LucasArts"
 }
 
 {
-	"title": "Tomb Rider",
-	"genre": "",
-	"developer": ""
+	"title": "Tomb Raider",
+	"genre": ["Action", "Adventure"],
+	"developer": "Crystal Dynamics",
+	"publisher": "Square Enix"
 }
 
 {
 	"title": "Machinarium",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie"],
+	"developer": "Amanita Design",
+	"publisher": "Amanita Design"
 }
 
 {
 	"title": "Metro: Last Light Redux",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "4A Games",
+	"publisher": "Deep Silver"
 }
 
 {
 	"title": "Murdered: Soul Suspect",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "RPG"],
+	"developer": "Airtight Games",
+	"publisher": "Square Enix"
+
 }
 
 {
-	"title": "Shadowrn: Dragonfall",
-	"genre": "",
-	"developer": ""
+	"title": "Shadowrun: Dragonfall",
+	"genre": ["Adventure", "Indie", "RPG", "Strategy"],
+	"developer": "Harebrained Schemes",
+	"publisher": "Harebrained Holdings"
 }
 
 {
-	"title": "Capzised",
-	"genre": "",
-	"developer": ""
+	"title": "Capsized",
+	"genre": ["Action", "Indie"],
+	"developer": "Alientrap",
+	"publisher": "Alientrap"
 }
 
 {
 	"title": "DiRT 3 Complete Edition",
-	"genre": "",
-	"developer": ""
+	"genre": ["Racing", "Simulation", "Sports"],
+	"developer": "Codemasters Racing Studio",
+	"publisher": "Codemasters"
 }
 
 {
 	"title": "Lara Croft and the Guardian of Light",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Crystal Dynamics",
+	"publisher": "Square Enix"
 }
 
 {
 	"title": "Thomas Was Alone",
-	"genre": "",
-	"developer": ""
+	"genre": ["Indie"],
+	"developer": "Bithell Games",
+	"publisher": "Bithell Games"
 }
 
 {
 	"title": "DiRT Showdown",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Racing", "Sports"],
+	"developer": "Codemasters Racing Studio",
+	"publisher": "Codemasters"
 }
 
 {
 	"title": "Half-Life 2",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "Valve",
+	"publisher": "Valve"
 }
 
 {
 	"title": "Half-Life 2: Episode One",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "Valve",
+	"publisher": "Valve"
 }
 
 {
 	"title": "Half-Life 2: Episode Two",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "Valve",
+	"publisher": "Valve"
 }
 
 {
 	"title": "Half-Life 2: Lost Coast",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "Valve",
+	"publisher": "Valve"
 }
 
 {
 	"title": "Hitman: Absolution",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "IO Interactive",
+	"publisher": "Square Enix"
 }
 
 {
 	"title": "Kane & Lynch: Dead Men",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "IO Interactive",
+	"publisher": "Square Enix"
 }
 
 {
 	"title": "Kane & Lynch 2: Dog Days",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "IO Interactive",
+	"publisher": "Square Enix"
 }
 
 {
 	"title": "Oddworld: Abe's Oddysee",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure"],
+	"developer": "Oddworld Inhabitants",
+	"publisher": "Oddworld Inhabitants"
 }
 
 {
 	"title": "Anno 2070",
-	"genre": "",
-	"developer": ""
+	"genre": ["Strategy"],
+	"developer": "Blue Byte",
+	"publisher": "Ubisoft"
 }
 
 {
 	"title": "Assassin's Creed",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Ubisoft Montreal",
+	"publisher": "Ubisoft"
 }
 
 {
 	"title": "Assassin's Creed II",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Ubisoft Montreal",
+	"publisher": "Ubisoft"
 }
 
 {
 	"title": "Assassin's Creed Brotherhood",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Ubisoft Montreal",
+	"publisher": "Ubisoft"
 }
 
 {
 	"title": "Assassin's Creed Revelations",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Ubisoft Montreal",
+	"publisher": "Ubisoft"
 }
 
 {
 	"title": "Assassin's Creed III",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Ubisoft Montreal",
+	"publisher": "Ubisoft"
 }
 
 {
 	"title": "Assassin's Creed IV Black Flag",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Ubisoft Montreal",
+	"publisher": "Ubisoft"
 }
 
 {
 	"title": "Bastion",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Indie", "RPG"],
+	"developer": "Supergiant Games",
+	"publisher": "Warner Bros. Interactive Entertainment"
 }
 
 {
 	"title": "Batman: Arkham Asylum GOTY Edition",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Rocksteady Studios",
+	"publisher": "Warner Bros. Interactive Entertainment"
 }
 
 {
-	"title": Batman: Arkham City GOTY Edition"",
-	"genre": "",
-	"developer": ""
+	"title": "Batman: Arkham City GOTY Edition",
+	"genre": ["Action", "Adventure"],
+	"developer": "Rocksteady Studios",
+	"publisher": "Warner Bros. Interactive Entertainment"
 }
 
 {
 	"title": "Bioshock Infinite",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "Irrational Games",
+	"publisher": "2K Games"
 }
 
 {
 	"title": "Brothers - A Tale of Two Sons",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Indie"],
+	"developer": "Starbreeze Studios AB",
+	"publisher": "505 Games"
 }
 
 {
 	"title": "Brütal Legend",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Strategy"],
+	"developer": "Double Fine Productions",
+	"publisher": "Double Fine Productions"
 }
 
 {
 	"title": "Chaos on Deponia",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie"],
+	"developer": "Daedalic Entertainment",
+	"publisher": "Daedalic Entertainment"
 }
 
 {
 	"title": "Cities: Skyline",
-	"genre": "",
-	"developer": ""
+	"genre": ["Simulation", "Strategy"],
+	"developer": "Colossal Order Ltd.",
+	"publisher": "Paradox Interactive"
 }
 
 {
 	"title": "Darksiders",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Vigil Games",
+	"publisher": "Nordic Games"
 }
 
 {
 	"title": "Darksiders II",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "RPG"],
+	"developer": "Vigil Games",
+	"publisher": "Nordic Games"
 }
 
 {
 	"title": "Deponia",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie"],
+	"developer": "Daedalic Entertainment",
+	"publisher": "Daedalic Entertainment"
 }
 
 {
 	"title": "Deus Ex: Human Revolution - Director's Cut",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "RPG"],
+	"developer": "Eidos Montreal",
+	"publisher": "Square Enix"
 }
 
 {
 	"title": "The Elder Scrolls V: Skyrim",
-	"genre": "",
-	"developer": ""
+	"genre": ["RPG"],
+	"developer": "Bethesda Game Studios",
+	"publisher": "Bethesda Softworks"
 }
 
 {
 	"title": "Goodby Deponia",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie"],
+	"developer": "Daedalic Entertainment",
+	"publisher": "Daedalic Entertainment"
 }
 
 {
 	"title": "GRID 2",
-	"genre": "",
-	"developer": ""
+	"genre": ["Racing", "Sports"],
+	"developer": "Codemasters Racing",
+	"publisher": "Codemasters"
 }
 
 {
 	"title": "Hotline Miami",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Indie"],
+	"developer": "Dennaton Games",
+	"publisher": "Devolver Digital"
 }
 
 {
 	"title": "LIMBO",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie"],
+	"developer": "Playdead",
+	"publisher": "Playdead"
 }
 
 {
 	"title": "Mark of the Ninja",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Indie"],
+	"developer": "Klei Entertainment",
+	"publisher": "Microsoft Studios"
 }
 
 {
 	"title": "Metal Gear Solid V: Ground Zeroes",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Kojima Productions",
+	"publisher": "Konami Digital Entertainment"
 }
 
 {
 	"title": "Monkey Island 2: Special Edition",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure"],
+	"developer": "LucasArts",
+	"publisher": "LucasArts"
 }
 
 {
 	"title": "Octodad: Dadliest Catch",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Indie"],
+	"developer": "Young Horses",
+	"publisher": "Young Horses"
 }
 
 {
 	"title": "Papers, Please",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie"],
+	"developer": "3909",
+	"publisher": "3909"
 }
 
 {
 	"title": "Portal",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "Valve",
+	"publisher": "Valve"
 }
 
 {
 	"title": "Portal 2",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Valve",
+	"publisher": "Valve"
 }
 
 {
 	"title": "The Secret of the Monkey Island: Special Edition",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure"],
+	"developer": "LucasArts",
+	"publisher": "LucasArts"
 }
 
 {
-	"title": "Thhe Stanley Parable",
-	"genre": "",
-	"developer": ""
+	"title": "The Stanley Parable",
+	"genre": ["Adventure", "Indie"],
+	"developer": "Galactic Cafe",
+	"publisher": "Galactic Cafe"
 }
 
 {
 	"title": "Theif",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure"],
+	"developer": "Eidos-Montréal",
+	"publisher": "Square Enix"
 }
 
 {
 	"title": "Transistor",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Indie", "RPG"],
+	"developer": "Supergiant Games",
+	"publisher": "Supergiant Games"
 }
 
 {
 	"title": "Valiant Hearts: The Great War",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure"],
+	"developer": "Ubisoft Montpellier",
+	"publisher": "Ubisoft"
 }
 
 {
 	"title": "The Witcher: Enhanced Edition",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "RPG"],
+	"developer": "CD PROJEKT RED",
+	"publisher": "CD PROJEKT RED"
 }
 
 {
 	"title": "The Witcher 2: Assassins of Kings Enhanced Edition",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "RPG"],
+	"developer": "CD PROJEKT RED",
+	"publisher": "CD PROJEKT RED"
 }
 
 {
 	"title": "Awesomenauts",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Indie", "Strategy"],
+	"developer": "Ronimo Games",
+	"publisher": "Ronimo Games"
 }
 
 {
 	"title": "BattleBlock Theater",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Casual", "Indie"],
+	"developer": "The Behemoth",
+	"publisher": "The Behemoth"
 }
 
 {
 	"title": "Don't Starve Together",
-	"genre": "",
-	"developer": ""
+	"genre": ["Adventure", "Indie", "Simulation", "Early Access"],
+	"developer": "Klei Entertainment",
+	"publisher": "Klei Entertainment"
 }
 
 {
 	"title": "Dota 2",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Free to Play", "Strategy"],
+	"developer": "Valve",
+	"publisher": "Valve"
 }
 
 {
 	"title": "Left 4 Dead 2",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action"],
+	"developer": "Valve",
+	"publisher": "Valve"
 }
 
 {
 	"title": "Magicka",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "RPG"],
+	"developer": "Arrowhead Game Studios",
+	"publisher": "Paradox Interactive"
 }
 
 {
 	"title": "Monaco",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Casual", "Indie", "Strategy"],
+	"developer": "Pocketwatch Games",
+	"publisher": "Pocketwatch Games"
 }
 
 {
 	"title": "Terraria",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Indie", "RPG"],
+	"developer": "Re-Logic",
+	"publisher": "Re-Logic"
 }
 
 {
 	"title": "Torchlight II",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Indie", "RPG"],
+	"developer": "Runic Games",
+	"publisher": "Runic Games"
 }
 
 {
 	"title": "Trine",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Indie"],
+	"developer": "Frozenbyte",
+	"publisher": "Frozenbyte"
 }
 
 {
 	"title": "Trine 2",
-	"genre": "",
-	"developer": ""
+	"genre": ["Action", "Adventure", "Indie"],
+	"developer": "Frozenbyte",
+	"publisher": "Frozenbyte"
 }

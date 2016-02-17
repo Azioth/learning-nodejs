@@ -20,10 +20,14 @@ var gameModel = new Schema({
 		required: true,
 		validate: requiredStringvalidator
 	},
-	genre: {
+	publisher: {
 		type: String,
 		required: true,
 		validate: requiredStringvalidator
+	},
+	genre: {
+		type: [String],
+		required: true
 	},
 	category: {
 		type: String,
